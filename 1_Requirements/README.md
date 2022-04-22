@@ -36,6 +36,12 @@ Disco LEDs or Disco lights are widely used in many celebrations. They are used i
 
 * A fixed voltage regulator produces a fixed DC output voltage, which is either positive or negative. In other words, some fixed voltage regulators produce positive fixed DC voltage values, while others produce negative fixed DC voltage values.
 
+### Relay 
+A relay is an electrically operated switch. It consists of a set of input terminals for a single or multiple control signals, and a set of operating contact terminals. The switch may have any number of contacts in multiple contact forms, such as make contacts, break contacts, or combinations thereof.
+
+### Audio output
+An audio output device is a device that turns the sound waves data that a computer generates into usable sound signals.
+
 
 
 
