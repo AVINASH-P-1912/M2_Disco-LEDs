@@ -10,3 +10,5 @@
 ### Quality Grade ![Quality Grade](https://api.codiga.io/project/33020/status/svg)
 
 ## Cppcheck  [![Cppcheck Analysis](https://github.com/AVINASH-P-1912/M2_Disco-LEDs/actions/workflows/Cppcheck_Analyse.yml/badge.svg)](https://github.com/AVINASH-P-1912/M2_Disco-LEDs/actions/workflows/Cppcheck_Analyse.yml)
+
+## Build-Linux [![Build-Linux](https://github.com/AVINASH-P-1912/M2_Disco-LEDs/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/AVINASH-P-1912/M2_Disco-LEDs/actions/workflows/Build%20on%20Linux.yml)
